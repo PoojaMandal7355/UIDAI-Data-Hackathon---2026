@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# JetBrains IDE settings
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+# Ignore everything
+*
+
+# Allow notebooks folder and all its contents
+!Notebooks/
+!Notebooks/**
+
+# Allow README and git files
+!README.md
+!.gitignore
