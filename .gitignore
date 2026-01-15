@@ -12,13 +12,4 @@ __pycache__/
 # OS specific
 .DS_Store
 Thumbs.db
-# Ignore everything
-*
 
-# Allow notebooks folder and all its contents
-!Notebooks/
-!Notebooks/**
-
-# Allow README and git files
-!README.md
-!.gitignore
